@@ -1,0 +1,7 @@
+beautifulsoup4
+numpy
+protobuf
+selenium
+six
+urllib3
+requests
